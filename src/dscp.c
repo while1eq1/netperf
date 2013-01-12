@@ -30,6 +30,7 @@
 #endif
 
 #include <stdio.h>
+#include <stdint.h>
 #if HAVE_STRING_H
 #include <string.h>
 #endif
